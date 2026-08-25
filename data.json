@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T15:27:38.235Z",
+  "updatedAt": "2026-08-25T15:28:48.559Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
@@ -71,10 +71,10 @@
       "id": "841eb228-7489-4f9f-a339-24c8bc138af2",
       "text": "LBMCS-1465  --> Green backs for TXU quote need analysis and update noptes",
       "status": "in-progress",
-      "due": "2026-08-24",
+      "due": "2026-08-28",
       "order": 4,
       "created": 1787597182147,
-      "updatedAt": 1787597182147
+      "updatedAt": 1787671725547
     },
     {
       "id": "613410ad-c8b0-41bb-b14a-fb07b0392b76",
