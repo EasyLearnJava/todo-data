@@ -1,15 +1,15 @@
 {
   "app": "workbench-notes",
   "version": 1,
-  "updatedAt": "2026-08-25T04:29:15.913Z",
+  "updatedAt": "2026-08-25T15:35:17.019Z",
   "notes": [
     {
       "id": "fef3c71d-28b5-483a-a153-e13cf460fbc6",
       "title": "Boomi",
-      "body": "[WEBSVC] Quote Accept  from SFDC to LUME Main\n[Que Listener] Quote Accept  from SFDC to LUME\nJMS_LODESTAR_PRICE_STATUS_UPDATE\n\nB4B_BatchProcess_ContractTermsSync_From_SF_TO_ISU",
+      "body": "[WEBSVC] Quote Accept  from SFDC to LUME Main  --> When RCM approves call this to Close the Quote\n[Que Listener] Quote Accept  from SFDC to LUME --> Send quote to LS and close the quote \nJMS_LODESTAR_PRICE_STATUS_UPDATE --> write pricing back to SF\n\nWEBSVC MWNE Quoting Engine Price Request Main\n[Queue Listener] MWNE Quoting Engine Price Request\n\nB4B_BatchProcess_ContractTermsSync_From_SF_TO_ISU",
       "color": 2,
       "created": 1787631926533,
-      "updatedAt": 1787632152911
+      "updatedAt": 1787672114018
     }
   ],
   "tombstones": []
