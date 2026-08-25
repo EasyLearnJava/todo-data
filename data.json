@@ -1,8 +1,17 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T14:28:05.530Z",
+  "updatedAt": "2026-08-25T14:58:44.651Z",
   "tasks": [
+    {
+      "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
+      "text": "Pricing valid date time goes to 9/24 one month out  Issue from Brendan",
+      "due": "2026-08-25",
+      "priority": 3,
+      "order": -4,
+      "created": 1787669921641,
+      "updatedAt": 1787669921641
+    },
     {
       "id": "54289910-1dfc-4f7b-8613-e0d5e81d752b",
       "text": "LBMCS-1440 : Sending End of term product from salesforce to ISU, dependent on the ISU team",
