@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T16:11:52.368Z",
+  "updatedAt": "2026-08-25T16:12:03.790Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
@@ -27,11 +27,12 @@
     {
       "id": "879151a1-e8ce-487c-843d-c51305d46e30",
       "text": "Raise a ticket for Mulesoft access and verify it is working in lower org preprod\n\nTicket created : REQ0295735",
+      "status": "in-progress",
       "due": "2026-08-28",
       "priority": 2,
       "order": -2,
       "created": 1787601263145,
-      "updatedAt": 1787668082517
+      "updatedAt": 1787674320788
     },
     {
       "id": "054471eb-8d1d-40f2-80ab-51834f1645bd",
