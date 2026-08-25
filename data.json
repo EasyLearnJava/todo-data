@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T15:28:48.559Z",
+  "updatedAt": "2026-08-25T15:29:00.375Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
@@ -79,10 +79,10 @@
     {
       "id": "613410ad-c8b0-41bb-b14a-fb07b0392b76",
       "text": "LBMCS-1466 --> need clarity on how do they add GreenBacks",
-      "due": "2026-08-24",
+      "due": "2026-08-28",
       "order": 5,
       "created": 1787597147795,
-      "updatedAt": 1787597147795
+      "updatedAt": 1787671737375
     }
   ],
   "tombstones": [
