@@ -1,30 +1,33 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T03:23:45.917Z",
+  "updatedAt": "2026-08-25T05:07:48.664Z",
   "tasks": [
+    {
+      "id": "54289910-1dfc-4f7b-8613-e0d5e81d752b",
+      "text": "LBMCS-1440 : Sending End of term product from salesforce to ISU, dependent on the ISU team",
+      "due": "2026-08-28",
+      "priority": 2,
+      "order": -3,
+      "created": 1787634465658,
+      "updatedAt": 1787634465658
+    },
     {
       "id": "879151a1-e8ce-487c-843d-c51305d46e30",
       "text": "Raise a ticket for Mulesoft access and verify it is working in lower org preprod",
-      "status": "todo",
       "due": "2026-08-28",
       "priority": 2,
       "order": -2,
       "created": 1787601263145,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787601263145
     },
     {
       "id": "054471eb-8d1d-40f2-80ab-51834f1645bd",
       "text": "reply to email from Rumi",
-      "status": "todo",
       "due": "2026-08-24",
       "priority": 3,
       "order": -1,
       "created": 1787600746329,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787600746329
     },
     {
@@ -32,35 +35,24 @@
       "text": "LBMCS-1458 : Double book override , Dev in progress, add Comments on Jira Ticket",
       "status": "in-progress",
       "due": "2026-08-27",
-      "priority": 0,
       "order": 0,
       "created": 1787599746909,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787599746909
     },
     {
       "id": "e2d4d5e0-d34d-49c3-999b-fa3d5077c174",
       "text": "August 27th release  :\n\nLBMCS-1234 : approval process : pending Business validation\n\nLBMCS-1387  --> Contact Record and ACR updated , Pending validation by Jessica for the scenario , update the ACR record when the contact Role is updated\n\nLBMCS-1479 : Decommissioned Contact new field on Contract pending QA/BT",
-      "status": "todo",
       "due": "2026-08-25",
-      "priority": 0,
       "order": 1,
       "created": 1787599461299,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787599461299
     },
     {
       "id": "1d648e34-4fd2-46ac-bfe3-cce6eedd6dbe",
       "text": "LBMCS-1387  --> Contact Record and ACR updated , Pending validation by Jessica for the scenario , update the ACR record when the contact Role is updated",
-      "status": "todo",
       "due": "2026-08-25",
-      "priority": 0,
       "order": 3,
       "created": 1787597360778,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787597360778
     },
     {
@@ -68,23 +60,16 @@
       "text": "LBMCS-1465  --> Green backs for TXU quote need analysis and update noptes",
       "status": "in-progress",
       "due": "2026-08-24",
-      "priority": 0,
       "order": 4,
       "created": 1787597182147,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787597182147
     },
     {
       "id": "613410ad-c8b0-41bb-b14a-fb07b0392b76",
       "text": "LBMCS-1466 --> need clarity on how do they add GreenBacks",
-      "status": "todo",
       "due": "2026-08-24",
-      "priority": 0,
       "order": 5,
       "created": 1787597147795,
-      "completedAt": null,
-      "prevStatus": null,
       "updatedAt": 1787597147795
     }
   ],
