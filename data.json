@@ -1,16 +1,19 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T15:29:00.375Z",
+  "updatedAt": "2026-08-25T16:11:52.368Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
       "text": "Pricing valid date time goes to 9/24 one month out  Issue from Brendan",
+      "status": "done",
       "due": "2026-08-25",
       "priority": 3,
+      "completedAt": 1787674309352,
+      "prevStatus": "todo",
       "order": -4,
       "created": 1787669921641,
-      "updatedAt": 1787669921641
+      "updatedAt": 1787674309353
     },
     {
       "id": "54289910-1dfc-4f7b-8613-e0d5e81d752b",
