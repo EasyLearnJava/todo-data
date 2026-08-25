@@ -1,19 +1,8 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T03:23:18.914Z",
+  "updatedAt": "2026-08-25T03:23:45.917Z",
   "tasks": [
-    {
-      "id": "1517c59f-a248-45d4-95d4-8cd95e6a57ff",
-      "text": "Demo Commit test",
-      "status": "todo",
-      "due": "2026-08-25",
-      "priority": 0,
-      "order": -3,
-      "created": 1787628196339,
-      "completedAt": null,
-      "updatedAt": 1787628196339
-    },
     {
       "id": "879151a1-e8ce-487c-843d-c51305d46e30",
       "text": "Raise a ticket for Mulesoft access and verify it is working in lower org preprod",
@@ -99,5 +88,10 @@
       "updatedAt": 1787597147795
     }
   ],
-  "tombstones": []
+  "tombstones": [
+    {
+      "id": "1517c59f-a248-45d4-95d4-8cd95e6a57ff",
+      "deletedAt": 1787628223411
+    }
+  ]
 }
