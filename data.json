@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T16:12:03.790Z",
+  "updatedAt": "2026-08-25T16:12:13.795Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
@@ -58,10 +58,11 @@
     {
       "id": "e2d4d5e0-d34d-49c3-999b-fa3d5077c174",
       "text": "August 27th release  :\n\nLBMCS-1234 : approval process : pending Business validation\n\nLBMCS-1387  --> Contact Record and ACR updated , Pending validation by Jessica for the scenario , update the ACR record when the contact Role is updated\n\nLBMCS-1479 : Decommissioned Contact new field on Contract pending QA/BT",
+      "status": "in-progress",
       "due": "2026-08-25",
       "order": 1,
       "created": 1787599461299,
-      "updatedAt": 1787599461299
+      "updatedAt": 1787674326561
     },
     {
       "id": "1d648e34-4fd2-46ac-bfe3-cce6eedd6dbe",
