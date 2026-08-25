@@ -1,8 +1,17 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T16:12:13.795Z",
+  "updatedAt": "2026-08-25T16:45:59.384Z",
   "tasks": [
+    {
+      "id": "1b0edabc-a524-4d41-8f34-aed6a686d135",
+      "text": "Review all the stories and projects planned for this year",
+      "due": "2026-08-26",
+      "priority": 3,
+      "order": -5,
+      "created": 1787676356372,
+      "updatedAt": 1787676356372
+    },
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
       "text": "Pricing valid date time goes to 9/24 one month out  Issue from Brendan",
