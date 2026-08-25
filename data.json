@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T14:58:44.651Z",
+  "updatedAt": "2026-08-25T15:27:38.235Z",
   "tasks": [
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
@@ -33,11 +33,14 @@
     {
       "id": "054471eb-8d1d-40f2-80ab-51834f1645bd",
       "text": "reply to email from Rumi",
+      "status": "done",
       "due": "2026-08-24",
       "priority": 3,
+      "completedAt": 1787671655222,
+      "prevStatus": "todo",
       "order": -1,
       "created": 1787600746329,
-      "updatedAt": 1787600746329
+      "updatedAt": 1787671655222
     },
     {
       "id": "a6df96a1-78c9-4332-b5b7-4d83ded5f066",
