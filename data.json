@@ -1,8 +1,17 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-08-25T16:45:59.384Z",
+  "updatedAt": "2026-08-26T04:22:56.830Z",
   "tasks": [
+    {
+      "id": "8a0cf432-eff0-4e3e-9826-c160564ae227",
+      "text": "what is the criteria to say bill method change from previous contract to current contract ? is it at the Contract level or the LDC account level changes we need to check ?",
+      "due": "2026-08-26",
+      "priority": 3,
+      "order": -6,
+      "created": 1787718173822,
+      "updatedAt": 1787718173822
+    },
     {
       "id": "1b0edabc-a524-4d41-8f34-aed6a686d135",
       "text": "Review all the stories and projects planned for this year",
