@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-09-24T15:25:59.358Z",
+  "updatedAt": "2026-09-24T15:26:09.365Z",
   "tasks": [
     {
       "id": "8a0cf432-eff0-4e3e-9826-c160564ae227",
@@ -15,11 +15,11 @@
     {
       "id": "1b0edabc-a524-4d41-8f34-aed6a686d135",
       "text": "Review all the stories and projects planned for this year",
-      "due": "2026-09-24",
+      "due": "2026-10-09",
       "priority": 3,
       "order": -5,
       "created": 1787676356372,
-      "updatedAt": 1790263551092
+      "updatedAt": 1790263562012
     },
     {
       "id": "6f5d068f-bd13-43ee-8a29-e00b8eed3def",
