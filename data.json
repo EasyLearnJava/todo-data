@@ -1,7 +1,7 @@
 {
   "app": "my-tasks",
   "version": 5,
-  "updatedAt": "2026-09-24T15:26:09.365Z",
+  "updatedAt": "2026-09-24T15:26:35.854Z",
   "tasks": [
     {
       "id": "8a0cf432-eff0-4e3e-9826-c160564ae227",
@@ -36,11 +36,14 @@
     {
       "id": "54289910-1dfc-4f7b-8613-e0d5e81d752b",
       "text": "LBMCS-1440 : Sending End of term product from salesforce to ISU, dependent on the ISU team",
+      "status": "done",
       "due": "2026-08-28",
       "priority": 2,
+      "completedAt": 1790263592840,
+      "prevStatus": "todo",
       "order": -3,
       "created": 1787634465658,
-      "updatedAt": 1787634465658
+      "updatedAt": 1790263592840
     },
     {
       "id": "879151a1-e8ce-487c-843d-c51305d46e30",
